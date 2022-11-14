@@ -1,0 +1,3 @@
+[com.spyboot.wt.task]
+StopTask.taskRun = 19 3 * * *
+StartTask.taskRun = 20 3 * * *
